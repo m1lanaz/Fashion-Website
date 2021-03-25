@@ -1,0 +1,212 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+}
+
+/* This is everything in the header */
+
+.navbar-toggler{
+    position: relative;
+    margin: 0 0 0 auto;
+    background-color: #FF9999;
+}
+
+.navbar, .collapse{
+    background-color: #FF9999;
+}
+
+.navLinks{
+    text-decoration: none;
+    color: white;
+}
+
+.navLinks:hover{
+    color: #424B54;
+}
+
+/* This is everything in the main */
+
+#sloganDiv{
+    height: 800px;
+    background-color:#FF9999 ;
+}
+
+.sloganTextCol{
+    position: relative;
+    margin-top: 10%;
+}
+
+#slogan{
+    color: white;
+    font-weight: 500;
+    text-align: left;
+    position: relative;
+    margin-top: 20%;
+}
+
+#secondLineSlogan{
+    color: white;
+    font-weight: 500;
+    text-align: left;
+}
+
+#bolderYour{
+    font-weight: 700;
+}
+
+#sloganText{
+    color: white;
+    position: relative;
+    margin-top: 3%;
+}
+
+.sloganButton{
+     color: #FF9999;
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 600;
+}
+
+.sloganButton:hover{
+    color:#424B54 ;
+}
+
+#presentphoto{
+    height: 500px;
+    transform: rotate(10deg);
+    position: relative;
+    margin-top: 20%;
+    margin-left: 20%;
+}
+
+/* This is all the testimonies */
+
+#testimonies{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.fa-star{
+    color: #FF9999;
+    font-size: 25px;
+}
+
+.testimonyname{
+    color: #424B54;
+    font-family:"Open Sans";
+    font-weight: 600;
+}
+
+.testimonypara{
+    color: #424B54;
+    font-family: "Roboto";
+}
+
+/* This is the features */
+
+#featuredIn{
+    height: 300px;
+    background-color: #FF9999;
+}
+
+#featuredHeader{
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-size: 2rem;
+}
+
+.logosfeatured:hover{
+    opacity: 1;
+}
+
+.logosfeatured{
+    margin-top:80px ;
+    padding: 0px;
+    opacity: 0.5;
+}
+#logoV{
+    position: relative;
+    left: 2rem;
+}
+
+#logoC{
+}
+
+#logoG{
+    position: relative;
+    right: -7rem;
+}
+
+#logoF{
+    position: relative;
+    top: -1.38rem;
+    right: -1rem;
+}
+
+/** This is the information of hwo it works **/
+
+#howWorks{
+    height: 400px;
+}
+
+#workHeader{
+    color: #424B54;
+    font-size: 2rem;
+    font-family:"Open Sans";
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+    top: 2rem;
+}
+
+#workText{
+    color: #424B54;
+    font-family:"Open Sans";
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+    top: 2rem;
+}
+
+.workicon{
+    color:#FF9999;
+    font-size: 10rem;
+    position: relative;
+    top: 6rem;
+    left: 10rem;
+}
+
+.icontext{
+    font-family: "Roboto";
+    color: #424B54;
+    font-weight: 900;
+    position: relative;
+    top: 7rem;
+    left: 9rem;
+}
+
+.workiconmiddle{
+    left: 12.5rem;
+}
+
+#iconLoveIt{
+    left: 13rem;
+}
+
+/** This is all the footer styles **/
+
+#footeroutline{
+    height: 50px;
+    background-color: #FF9999;
+    margin-top: 60px;
+}
+
+#footerinfo{
+    color: white;
+    text-align: center;
+    font-size:-1em;
+    position: relative;
+    top: 1rem;
+}
